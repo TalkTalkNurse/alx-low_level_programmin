@@ -1,1 +1,2 @@
-# alx-low_level_programmin
+#!/bin/bash
+gcc -E $CFILE
